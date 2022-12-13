@@ -2,7 +2,7 @@
 
 ## 0.写在前面
 
-​	最近学习内容繁杂，不再单一学习，索性开个新仓库记录下一些片段学习
+​	最近学习内容繁杂，不再单一学习，索性开个新仓库记录下一些片段学习，没什么逻辑性方便自己查
 
 
 
@@ -16,5 +16,22 @@
 
 
 
+## 杂七杂八的Trick
+
+- LD_PRELOAD相关
+  - Linux Preload Hook原理与实践
+  - [linux ld.so.preload机制解析](https://zhuanlan.zhihu.com/p/575574549)
+
+## 提权
+
+- [最全Potato家族提权总结](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247490866&idx=1&sn=00fda0a83a521ab4773e024f627bafeb&chksm=cea8f672f9df7f64e45acb7902297f51aec88edb54110fde35d9dde60f50664365af9b107981&mpshare=1&scene=1&srcid=1207CVGEd4PgMadxWUFK2xUB&sharer_sharetime=1670373132287&sharer_shareid=52185258fb750059aa42ee7e5101e6f6#rd)
 
 
+
+
+
+
+
+## 其他
+
+- [好用的payload集锦](https://github.com/swisskyrepo/PayloadsAllTheThings)
