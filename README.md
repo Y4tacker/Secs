@@ -22,6 +22,8 @@
   - [Linux Preload Hook原理与实践](https://github.com/Y4tacker/Secs/blob/main/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB%E7%9A%84Trick/Linux%20Preload%20Hook%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5/index.md)
   - [linux ld.so.preload机制解析](https://zhuanlan.zhihu.com/p/575574549)
 - 提权相关
+  - [简谈SUID提权](https://zhuanlan.zhihu.com/p/373352345)
+  - [sudo配置文件/etc/sudoers详解及实战用法](https://blog.csdn.net/field_yang/article/details/51547804)
   - [最全Potato家族提权总结](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247490866&idx=1&sn=00fda0a83a521ab4773e024f627bafeb&chksm=cea8f672f9df7f64e45acb7902297f51aec88edb54110fde35d9dde60f50664365af9b107981&mpshare=1&scene=1&srcid=1207CVGEd4PgMadxWUFK2xUB&sharer_sharetime=1670373132287&sharer_shareid=52185258fb750059aa42ee7e5101e6f6#rd)
 
 
