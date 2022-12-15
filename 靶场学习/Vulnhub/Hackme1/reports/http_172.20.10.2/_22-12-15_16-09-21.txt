@@ -1,8 +1,0 @@
-# Dirsearch started Thu Dec 15 16:09:43 2022 as: /usr/local/bin/dirsearch -u http://172.20.10.2 -x 403
-
-200     0B   http://172.20.10.2/config.php
-200   527B   http://172.20.10.2/login.php
-302     0B   http://172.20.10.2/logout.php    -> REDIRECTS TO: login.php
-200   594B   http://172.20.10.2/register.php
-301   312B   http://172.20.10.2/uploads    -> REDIRECTS TO: http://172.20.10.2/uploads/
-200   456B   http://172.20.10.2/uploads/
