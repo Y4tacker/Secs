@@ -26,7 +26,9 @@
   - [Hackme1](https://github.com/Y4tacker/Secs/blob/main/%E9%9D%B6%E5%9C%BA%E5%AD%A6%E4%B9%A0/Vulnhub/Hackme1/index.md)
   - [Hackme2](https://github.com/Y4tacker/Secs/blob/main/%E9%9D%B6%E5%9C%BA%E5%AD%A6%E4%B9%A0/Vulnhub/Hackme2/index.md)
 
-
+## SRC好文
+- JSRC
+  - [【JSRC小课堂】Web安全专题（四）SRC漏洞挖掘技术之命令执行漏洞](https://mp.weixin.qq.com/s/9cXGR7tlN_OAP-dMyZyHEw)
 
 ## 论文学习
 
