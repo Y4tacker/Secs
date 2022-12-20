@@ -30,6 +30,7 @@
   - [LinESC](https://github.com/Y4tacker/Secs/blob/main/%E9%9D%B6%E5%9C%BA%E5%AD%A6%E4%B9%A0/Vulnhub/LinESC/index.md)
   - [Callme](https://github.com/Y4tacker/Secs/blob/main/%E9%9D%B6%E5%9C%BA%E5%AD%A6%E4%B9%A0/Vulnhub/Callme/index.md)
   - [School](https://github.com/Y4tacker/Secs/blob/main/%E9%9D%B6%E5%9C%BA%E5%AD%A6%E4%B9%A0/Vulnhub/School/index.md)
+  - [Ragnar-lothbrok](https://github.com/Y4tacker/Secs/blob/main/%E9%9D%B6%E5%9C%BA%E5%AD%A6%E4%B9%A0/Vulnhub/Ragnar-lothbrok/index.md)
 
 ## SRC好文
 - JSRC
