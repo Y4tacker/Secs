@@ -15,7 +15,8 @@
   - [Linux提权姿势二：利用NFS提权](https://cloud.tencent.com/developer/inventory/6764/article/1708369)
   - [sudo配置文件/etc/sudoers详解及实战用法](https://blog.csdn.net/field_yang/article/details/51547804)
   - [最全Potato家族提权总结](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247490866&idx=1&sn=00fda0a83a521ab4773e024f627bafeb&chksm=cea8f672f9df7f64e45acb7902297f51aec88edb54110fde35d9dde60f50664365af9b107981&mpshare=1&scene=1&srcid=1207CVGEd4PgMadxWUFK2xUB&sharer_sharetime=1670373132287&sharer_shareid=52185258fb750059aa42ee7e5101e6f6#rd)
-
+- SSRF
+  - [php-curl的一个案例](https://github.com/Y4tacker/Secs/blob/main/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB%E7%9A%84Trick/SSRF/php_curl/index.md)
 - 信息收集相关
   - [【JSRC小课堂】Web安全专题（一）](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727832089&idx=1&sn=fb15a15bad60a42fe8ae11345a0e328c&chksm=8050bd91b72734877045c2b1e5437a81c09e4e21fa8e43db09dd90a7e14e3f45cec34850cc14&scene=21#wechat_redirect)
 
