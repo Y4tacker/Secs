@@ -6,7 +6,7 @@
 
 ## solve
 
-很简单，很多年前blackhat就曾提到过，他会解析@后面那个
+很简单，很多年前blackhat就曾提到过，他会解析@后面那个，命令行的curl与php比较类似
 
 ![image-20221221105906293](/Users/y4tacker/Desktop/1.Project/Secs/杂七杂八的Trick/SSRF/php_curl/index/image-20221221105906293.png)
 
