@@ -38,7 +38,8 @@
   - [【JSRC小课堂】Web安全专题（四）SRC漏洞挖掘技术之命令执行漏洞](https://mp.weixin.qq.com/s/9cXGR7tlN_OAP-dMyZyHEw)
   
 
-
+## 未授权访问
+- [二十八种未授权访问漏洞合集](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247494207&idx=1&sn=0e834aa50ee9b3d7d87033b02050349c&chksm=ea1b037fdd6c8a69eabdb991af32e15e8a50c32ba838e1b970af5a988921c55f49970c470893#rd)
 ## 论文学习
 
 - 机器学习为何难以应用于真实的网络入侵检测系统
