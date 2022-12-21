@@ -33,9 +33,9 @@
   - [School](https://github.com/Y4tacker/Secs/blob/main/%E9%9D%B6%E5%9C%BA%E5%AD%A6%E4%B9%A0/Vulnhub/School/index.md)
   - [Ragnar-lothbrok](https://github.com/Y4tacker/Secs/blob/main/%E9%9D%B6%E5%9C%BA%E5%AD%A6%E4%B9%A0/Vulnhub/Ragnar-lothbrok/index.md)
 
-## SRC好文
-- JSRC
-  - [【JSRC小课堂】Web安全专题（四）SRC漏洞挖掘技术之命令执行漏洞](https://mp.weixin.qq.com/s/9cXGR7tlN_OAP-dMyZyHEw)
+## 好文分享
+- [【JSRC小课堂】Web安全专题（四）SRC漏洞挖掘技术之命令执行漏洞](https://mp.weixin.qq.com/s/9cXGR7tlN_OAP-dMyZyHEw)
+- [一次从jmx到rce](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247506824&idx=1&sn=1bff6060290c0fdb7fe059cff2c61153&chksm=96d0208da1a7a99b6e61c8e3c332d324c0296bbccf1163cb8a10760e57cd17e150cb23a0e36a&mpshare=1&scene=1&srcid=1220PA2K5MY7dM3gWTr06z4r&sharer_sharetime=1671532238935&sharer_shareid=19374164c9d8647c6159e09a97bb1208#rd)
   
 
 ## 未授权访问
