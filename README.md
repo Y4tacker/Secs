@@ -56,3 +56,5 @@
 
 - [PayloadsAllTheThings(好用的Payload仓库)](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [Galaxy-Bugbounty-Checklist](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist)
+- Code Review
+  - [vulnerable-code-snippets](https://github.com/yeswehack/vulnerable-code-snippets)
