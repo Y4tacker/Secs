@@ -44,6 +44,10 @@
 ## 免杀
 - [GoPass系列免杀基础（一）](https://mp.weixin.qq.com/s/WzRZs9uieqrkdp7JuwhtPw)
 
+## API安全
+- [API安全学习笔记（写的很杂有很多不太相关的东西，自己挑重点看）](https://xz.aliyun.com/t/11977)
+- [玩转graphQL](https://mp.weixin.qq.com/s/gp2jGrLPllsh5xn7vn9BwQ)
+
 ## 论文学习
 
 - 机器学习为何难以应用于真实的网络入侵检测系统
