@@ -46,7 +46,7 @@
 
 ## API安全
 - [API安全学习笔记（写的很杂有很多不太相关的东西，自己挑重点看）](https://xz.aliyun.com/t/11977)
-- [玩转graphQL](https://mp.weixin.qq.com/s/gp2jGrLPllsh5xn7vn9BwQ)
+- [玩转graphQL(讲了一些和graphql相关的安全问题)](https://mp.weixin.qq.com/s/gp2jGrLPllsh5xn7vn9BwQ)
 
 ## 论文学习
 
