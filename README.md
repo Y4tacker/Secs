@@ -29,6 +29,7 @@
 - 信息收集相关
   - [【JSRC小课堂】Web安全专题（一）](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727832089&idx=1&sn=fb15a15bad60a42fe8ae11345a0e328c&chksm=8050bd91b72734877045c2b1e5437a81c09e4e21fa8e43db09dd90a7e14e3f45cec34850cc14&scene=21#wechat_redirect)
   
+- 🎣？
   
 
 ## 靶场学习
