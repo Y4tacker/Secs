@@ -13,7 +13,7 @@ with open("\u200fdocx\u200f.快乐文档.exe", "w+") as f:
 
 
 
-![image-20230329235649322](/Users/y4tacker/Desktop/1.Project/Secs/杂七杂八的Trick/fish/Unicode妙用/index/image-20230329235649322.png)
+![image-20230329235649322](./index/image-20230329235649322.png)
 
 ## 参考文章
 
