@@ -22,6 +22,8 @@
 - SQLI
   
   - [当addslashes遇到pre_replace](https://github.com/Y4tacker/Secs/blob/main/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB%E7%9A%84Trick/SQLI/addslashes%E4%B8%8Epreg_replace/index.md)
+- XSS
+  - [事件与html实体编码](https://github.com/Y4tacker/Secs/blob/main/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB%E7%9A%84Trick/XSS/%E4%BA%8B%E4%BB%B6%E4%B8%8Ehtml%E5%AE%9E%E4%BD%93%E7%BC%96%E7%A0%81/index.md)
 - 信息收集相关
   - [【JSRC小课堂】Web安全专题（一）](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727832089&idx=1&sn=fb15a15bad60a42fe8ae11345a0e328c&chksm=8050bd91b72734877045c2b1e5437a81c09e4e21fa8e43db09dd90a7e14e3f45cec34850cc14&scene=21#wechat_redirect)
 - 钓鱼
