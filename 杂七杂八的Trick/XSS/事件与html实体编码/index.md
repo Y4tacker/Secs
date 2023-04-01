@@ -21,7 +21,7 @@ echo "<body onload='$a'></body>";
 
 此时当我们传入`1=alert("Hacked")`，则会被waf函数检测拦截
 
-![image-20230401111619056](/Users/y4tacker/Desktop/1.Project/Secs/杂七杂八的Trick/XSS/事件与html实体编码/index/image-20230401111619056.png)
+![image-20230401111619056](./index/image-20230401111619056.png)
 
 但如果我们使用html实体编码(支持十进制与十六进制)，成功Bypass!
 
